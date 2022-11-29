@@ -5,6 +5,6 @@ O site contém três páginas, a inicial contendo um pouco da história da barbe
 
 O site também é responsivo para telas mobiles, com navegação entre páginas pelo cabeçalho.
 
-Tecnologias utilizadas
+Tecnologias utilizadas<br>
 HTML
 CSS

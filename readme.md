@@ -1,7 +1,7 @@
 <h1 align="center"> Barbearia Alura </h1>
 
 
-![capa do projeto do repositório](https://user-images.githubusercontent.com/99683851/206325689-ed4728c6-4e32-48b4-bfbe-dc14ead15009.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/99683851/206325689-ed4728c6-4e32-48b4-bfbe-dc14ead15009.png" alt="capa do projeto do repositório"></p>
 
 <h2>
 Descrição do projeto

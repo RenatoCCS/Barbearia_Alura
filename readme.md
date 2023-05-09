@@ -17,15 +17,13 @@ Navegação entre as páginas utilizando os cabeçalho e interações simples co
 <br>Também com sua versão responsiva para telas mobiles.
 
 
-<h2>📁 Deploy do projeto</h2>
- 
-Você pode acessar o projeto clicando [Aqui](https://barberalurarenato.netlify.app/index.html)
-
-
 <h2>:floppy_disk: Tecnologias utilizadas</h2>
 
 * HTML5<BR>
 * CSS3
 
+<h2>📁 Deploy do projeto</h2>
+ 
+Você pode acessar o projeto clicando [Aqui](https://barberalurarenato.netlify.app/index.html)
 
 
